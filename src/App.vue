@@ -12,11 +12,11 @@
           <el-menu-item index="/">
             首页/生成器
           </el-menu-item>
-          <el-menu-item index="/donate">
-            打赏/改需求
+          <el-menu-item index="/donate打赏/改需求">
+            
           </el-menu-item>
-          <el-menu-item index="/group">
-            交流/进群聊
+          <el-menu-item index="/group交流/进群聊">
+            
           </el-menu-item>
         </el-menu>
       </el-col>
@@ -28,7 +28,7 @@
 
   <div id="kefu">
     <el-popover width="200" placement="left-end" trigger="hover">
-      <p style="text-align: center;"><b>扫一扫联系飞兔小哥</b></p>
+      <p style="text-align: center;扫一扫联系飞兔小哥"><b></b></p>
       <img src="./assets/wechat.jpg" style="width: 100%;" />
       <template #reference>
         <el-icon>
@@ -37,8 +37,8 @@
       </template>
     </el-popover>
     <el-popover width="200" placement="left-end" trigger="hover">
-      <p style="text-align: center;"><b>扫一扫关注微信公众号</b></p>
-      <p style="text-align: center;">编程自学 技能干货 考证提升</p>
+      <p style="text-align: center;扫一扫关注微信公众号"><b></b></p>
+      <p style="text-align: center;编程自学 技能干货 考证提升"></p>
       <img src="./assets/gzh.jpg" style="width: 100%;" />
       <template #reference>
         <el-icon>
