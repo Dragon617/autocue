@@ -40,7 +40,7 @@
     </el-popover>
     <el-popover width="200" placement="left-end" trigger="hover">
       <p style="text-align: center;扫一扫关注微信公众号"><b></b></p>
-      <p style="text-align: center;编程自学 技能干货 考证提升"></p>
+     // p style="text-align: center;编程自学 技能干货 考证提升"></p>
       <img src="./assets/gzh.jpg" style="width: 100%;" />
       <template #reference>
         <el-icon>
@@ -49,16 +49,8 @@
       </template>
     </el-popover>
     <el-popover width="200" placement="left-end" trigger="hover">
-      <p style="text-align: center;"><b>欢迎关注小哥主页</b></p>
-      <p style="text-align: center; margin: .2rem 0;">CSDN: <el-link href="https://tinygeeker.blog.csdn.net/" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">掘金: <el-link href="https://juejin.cn/user/2467756640574845" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">思否: <el-link href="https://segmentfault.com/u/tinygeeker" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">51CTO: <el-link href="https://blog.51cto.com/tinygeeker" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">阿里云: <el-link href="https://developer.aliyun.com/profile/expert/oirrcfhlzqzko" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">腾讯云: <el-link href="https://cloud.tencent.com/developer/user/8345747" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">华为云: <el-link href="https://bbs.huaweicloud.com/community/usersnew/id_1677736481816497" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">InfoQ: <el-link href="https://www.infoq.cn/u/tinygeeker/" target="_blank" type="primary">点击访问➢</el-link></p>
-      <p style="text-align: center; margin: .2rem 0;">博客园: <el-link href="https://www.cnblogs.com/tinygeeker/" target="_blank" type="primary">点击访问➢</el-link></p>
+      <p style="text-align: center;"><b>欢迎关注我的主页</b></p>
+      <p style="text-align: center; margin: .2rem 0;">龙的主页: <el-link href="https://home.long0617.cn/" target="_blank" type="primary">点击访问➢</el-link></p>
       <template #reference>
         <el-icon>
           <Link />
