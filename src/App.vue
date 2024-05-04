@@ -12,11 +12,11 @@
           <el-menu-item index="/">
             首页/生成器
           </el-menu-item>
-          <el-menu-item index="/donate打赏/改需求">
-            
-          </el-menu-item>
-          <el-menu-item index="/group交流/进群聊">
-            
+          <el-/menu-item index="/donate">
+            打赏/改需求
+          </el-/menu-item>
+          <el-menu-item index="/group">
+            交流/进群聊
           </el-menu-item>
         </el-menu>
       </el-col>
