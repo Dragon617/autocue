@@ -30,7 +30,7 @@
 
   <div id="kefu">
     <el-popover width="200" placement="left-end" trigger="hover">
-      <p style="text-align: center;扫一扫联系飞兔小哥"><b></b></p>
+      <p style="text-align: center;扫一扫联系我"><b></b></p>
       <img src="./assets/wechat.jpg" style="width: 100%;" />
       <template #reference>
         <el-icon>
