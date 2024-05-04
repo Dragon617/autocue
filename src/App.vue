@@ -40,7 +40,6 @@
     </el-popover>
     <el-popover width="200" placement="left-end" trigger="hover">
       <p style="text-align: center;扫一扫关注微信公众号"><b></b></p>
-     // p style="text-align: center;编程自学 技能干货 考证提升"></p>
       <img src="./assets/gzh.jpg" style="width: 100%;" />
       <template #reference>
         <el-icon>
